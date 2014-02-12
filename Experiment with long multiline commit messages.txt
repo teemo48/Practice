@@ -1,0 +1,12 @@
+Practice long commit messages.txt
+
+
+This is an example txt file.
+
+It is for the "Practice" git and github working tree
+See the "Practice" bookmark in sourcetree  ( 2/12/14)
+
+Here is the working tree location in which this txt file resides:
+
+file://localhost/Volumes/Macintosh%20HD%202/timothywyant/Documents/Decipher/Software/Github/Practice/Markdown%201.md
+
